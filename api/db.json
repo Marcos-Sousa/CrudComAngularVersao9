@@ -1,0 +1,20 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Coca Cola",
+            "preco": "2.92",
+            "categoria": "Bebidas",
+            "quantidade": "20",
+            "descricao": "Coca cola 2 litros"
+        },
+        {
+            "id": 2,
+            "nome": "Guarana",
+            "preco": "10.92",
+            "categoria": "Bebidas",
+            "quantidade": "10",
+            "descricao": "Guarana 2 litros"
+        }
+    ]
+}
